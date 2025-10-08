@@ -164,25 +164,12 @@ Netflix_Analysis/
 
 ---
 
-## 📸 Dashboard Preview
-
-*(Attach a screenshot of your Power BI dashboard here)*
-
----
-
 ## 🧑‍💻 Author
 
 **Name:** Madiha Umer
 **Role:** Data Analyst | Python | Power BI | Pandas | Matplotlib
 **LinkedIn:** [linkedin.com/in/madihaumer](https://linkedin.com/in/madihaumer)
 
----
-
-## ⭐ Acknowledgement
 
 Dataset Source: [Netflix Titles on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
-Tools: Python, Power BI
-
----
-
-Would you like me to **add a short GitHub project description** (the one-line tagline that appears at the top of a repository, e.g., “Interactive Netflix Analysis Dashboard using Python and Power BI”)? I can include that too.
+Tools: Python, Power
